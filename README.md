@@ -1,4 +1,4 @@
-# Lab 3 - Git History and Revert Practice
-This line was added locally.
-This line was added locally again.
-This line was added locally.
+# Lab 3 - Git History and Revert Practi
+
+
+This line was added locally
